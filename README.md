@@ -11,3 +11,6 @@ Multi-Platform: Built with Python, it can be run on Windows, macOS, and Linux.
 Standalone Executable: Packaged with PyInstaller for a one-click solution on Windows.
 
 Lightweight: No complex setup or dependencies required for end-users.
+<img width="1487" height="866" alt="image" src="https://github.com/user-attachments/assets/82c9b6b0-517e-451a-b49d-1a150f67b1f9" />
+
+<img width="1485" height="859" alt="image" src="https://github.com/user-attachments/assets/f00961e1-4ece-425f-84fc-c593c949bde6" />
